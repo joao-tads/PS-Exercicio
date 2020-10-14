@@ -31,3 +31,8 @@ input:hover {
     box-shadow: 0px 2px 10px rgb(26, 10, 87);
 }
 
+img {
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+
